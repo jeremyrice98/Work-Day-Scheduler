@@ -1,8 +1,5 @@
 var tasks = [];
 
-//load work tasks
-
-
 //set current date
 $('#currentDay').text(moment().format("dddd, MMM Do YYYY"));
 
